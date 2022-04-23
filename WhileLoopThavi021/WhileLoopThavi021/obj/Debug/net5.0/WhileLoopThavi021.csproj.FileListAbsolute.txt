@@ -1,0 +1,16 @@
+C:\Users\Thaveshan Naidoo\source\repos\WhileLoopThavi021\WhileLoopThavi021\bin\Debug\net5.0\WhileLoopThavi021.exe
+C:\Users\Thaveshan Naidoo\source\repos\WhileLoopThavi021\WhileLoopThavi021\bin\Debug\net5.0\WhileLoopThavi021.deps.json
+C:\Users\Thaveshan Naidoo\source\repos\WhileLoopThavi021\WhileLoopThavi021\bin\Debug\net5.0\WhileLoopThavi021.runtimeconfig.json
+C:\Users\Thaveshan Naidoo\source\repos\WhileLoopThavi021\WhileLoopThavi021\bin\Debug\net5.0\WhileLoopThavi021.runtimeconfig.dev.json
+C:\Users\Thaveshan Naidoo\source\repos\WhileLoopThavi021\WhileLoopThavi021\bin\Debug\net5.0\WhileLoopThavi021.dll
+C:\Users\Thaveshan Naidoo\source\repos\WhileLoopThavi021\WhileLoopThavi021\bin\Debug\net5.0\ref\WhileLoopThavi021.dll
+C:\Users\Thaveshan Naidoo\source\repos\WhileLoopThavi021\WhileLoopThavi021\bin\Debug\net5.0\WhileLoopThavi021.pdb
+C:\Users\Thaveshan Naidoo\source\repos\WhileLoopThavi021\WhileLoopThavi021\obj\Debug\net5.0\WhileLoopThavi021.csproj.AssemblyReference.cache
+C:\Users\Thaveshan Naidoo\source\repos\WhileLoopThavi021\WhileLoopThavi021\obj\Debug\net5.0\WhileLoopThavi021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thaveshan Naidoo\source\repos\WhileLoopThavi021\WhileLoopThavi021\obj\Debug\net5.0\WhileLoopThavi021.AssemblyInfoInputs.cache
+C:\Users\Thaveshan Naidoo\source\repos\WhileLoopThavi021\WhileLoopThavi021\obj\Debug\net5.0\WhileLoopThavi021.AssemblyInfo.cs
+C:\Users\Thaveshan Naidoo\source\repos\WhileLoopThavi021\WhileLoopThavi021\obj\Debug\net5.0\WhileLoopThavi021.csproj.CoreCompileInputs.cache
+C:\Users\Thaveshan Naidoo\source\repos\WhileLoopThavi021\WhileLoopThavi021\obj\Debug\net5.0\WhileLoopThavi021.dll
+C:\Users\Thaveshan Naidoo\source\repos\WhileLoopThavi021\WhileLoopThavi021\obj\Debug\net5.0\ref\WhileLoopThavi021.dll
+C:\Users\Thaveshan Naidoo\source\repos\WhileLoopThavi021\WhileLoopThavi021\obj\Debug\net5.0\WhileLoopThavi021.pdb
+C:\Users\Thaveshan Naidoo\source\repos\WhileLoopThavi021\WhileLoopThavi021\obj\Debug\net5.0\WhileLoopThavi021.genruntimeconfig.cache
